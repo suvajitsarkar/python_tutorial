@@ -1,0 +1,2 @@
+First line of output stream
+Second line of output file
