@@ -1,4 +1,4 @@
-#Count number of line in a file
+#Count number of lines in a file
 def method1():
     count = 0
     try:
