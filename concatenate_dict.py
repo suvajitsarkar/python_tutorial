@@ -1,6 +1,6 @@
 #Learning dictionary basics. Also find a solution to concatenate two dictionaries!!!i
 #Dictionaries in python are data structures which contains data as key value pairs and are seperated by commas
-#All keys in a dictionary should be unique
+#All keys in a dictionary should be unique.
 
 dict1={"name":"Arnab","age":30,'a':255,'x':128}
 dict2={"name":"Deepak","age":25,'b':155}
