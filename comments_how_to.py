@@ -1,5 +1,5 @@
 # program to explain the concept of 
-# comments
+# comments both singele line and mulltiline!!!
 
 '''
 Multiline comments as written here are 
